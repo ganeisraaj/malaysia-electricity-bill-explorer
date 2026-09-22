@@ -1,8 +1,8 @@
-# ⚡ Malaysia Electricity Bill Explorer
+# Malaysia Electricity Bill Explorer
 
 A public-data project exploring why Malaysian household electricity bills can rise sharply — through electricity usage, tariff thresholds, incentives, and hotter weather.
 
-## 🌐 Live App
+## Live App
 
 👉 https://ganeisraaj-malaysia-electricity-bill-explorer.streamlit.app/
 
