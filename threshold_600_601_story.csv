@@ -1,0 +1,4 @@
+scenario,kwh,bill_rm
+600 kWh (protected under old and new threshold),600,215.98
+601 kWh before Sep 2026 expansion (TNB example),601,258.4
+601 kWh under Sep-Dec 2026 expansion,601,225.5
